@@ -114,7 +114,7 @@ After the collection process, I had 39013 number of data points. I then preproce
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
 
 Train on 31210 samples, validate on 7803 samples
-____________________________________________________________________________________________________
+====================================================================================================
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 cropping2d_1 (Cropping2D)        (None, 72, 318, 3)    0           cropping2d_input_1[0][0]         
